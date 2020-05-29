@@ -1,0 +1,6 @@
+D:\VS\pract\Zadanie4\Zadanie4\bin\Debug\Zadanie4.exe.config
+D:\VS\pract\Zadanie4\Zadanie4\bin\Debug\Zadanie4.exe
+D:\VS\pract\Zadanie4\Zadanie4\bin\Debug\Zadanie4.pdb
+D:\VS\pract\Zadanie4\Zadanie4\obj\Debug\Zadanie4.csprojAssemblyReference.cache
+D:\VS\pract\Zadanie4\Zadanie4\obj\Debug\Zadanie4.exe
+D:\VS\pract\Zadanie4\Zadanie4\obj\Debug\Zadanie4.pdb
